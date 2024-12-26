@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e2a64ff1.css",
-    "main.js": "./static/js/main.d648e84b.js",
+    "main.css": "./static/css/main.5b38eaa1.css",
+    "main.js": "./static/js/main.3f20646d.js",
     "static/media/product-example.png": "./static/media/product-example.3c89b682273456f4ca47.png",
     "static/media/gift-logo-ranhigs.png": "./static/media/gift-logo-ranhigs.d63cf677d557e8166354.png",
     "static/media/gift-image-sberbank.png": "./static/media/gift-image-sberbank.c3f9c339cd1625b2f8ef.png",
@@ -56,11 +56,11 @@
     "static/media/logo-name-1.svg": "./static/media/logo-name-1.d013e5ee7d940550fcef.svg",
     "static/media/logo-name-8.svg": "./static/media/logo-name-8.15357369dcacb651f760.svg",
     "static/media/logo-name-2.svg": "./static/media/logo-name-2.b074a0d340d5461e087a.svg",
-    "main.e2a64ff1.css.map": "./static/css/main.e2a64ff1.css.map",
-    "main.d648e84b.js.map": "./static/js/main.d648e84b.js.map"
+    "main.5b38eaa1.css.map": "./static/css/main.5b38eaa1.css.map",
+    "main.3f20646d.js.map": "./static/js/main.3f20646d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2a64ff1.css",
-    "static/js/main.d648e84b.js"
+    "static/css/main.5b38eaa1.css",
+    "static/js/main.3f20646d.js"
   ]
 }
